@@ -49,10 +49,6 @@
 |---|-----|
 |Name|Shima|
 |GitHub|https://github.com/tanvk1ch1|
-|Zenn|https://zenn.dev/shima|
-|Blog|[Shima’sLog](https://tanvk1ch1.hatenablog.com)|
-|Twitter|[@sh1maal](https://twitter.com/sh1maal)|
-|Qiita|[tanvk1ch1](http://qiita.com/tanvk1ch1)|
 
 ## 保有スキル
 <details> 
