@@ -60,9 +60,9 @@
 
 <details> 
 <summary>IDE (開発環境)</summary>
+* JetBrains Rider <br>
 * Visual Studio <br>
 * Visual Studio Code <br>
-* JetBrains Rider <br>
 </details>
 
 <details> 
@@ -79,11 +79,11 @@
 
 <details> 
 <summary>DCCツール</summary>
-- Adobe Photoshop
-- Adobe After Effects
-- Blender 
-- Autodesk Maya
-- SideFX Houdini 
+* Adobe Photoshop
+* Adobe After Effects
+* Blender 
+* Autodesk Maya
+* SideFX Houdini 
 </details>
 
 <details> 
@@ -212,24 +212,25 @@ VFXアーティストとしては、シェーダーやShurikenなどを利用し
 
 # 目標
 ## なりたい姿
-着実にUnityエンジニアとして地力を上げてタスクをこなし、担当箇所を広げたいと考えています。<br>
-また、技術勉強会に登壇し、学んだことをアウトプットする機会を増やしたいです。<br>
-知財の知識を活かし、開発タイトルの権利化や、開発中に起きたトラブル対処を行いたいです。<br>
+Unityエンジニアとして自身にとって新たな道を拓くため、<br>
+また、プログラムだけでなくマーケター目線や審美眼を磨くため、<br>
+ゲーム開発から映像制作を選択しました。<br>
+映像制作について理解を深め、徐々に表現の向上や遊び心を加えつつ担当箇所を広げたいと考えています。<br>
+技術勉強会に積極的に参加し、学びのアウトプットを継続させたいと考えています。<br>
+また、知財の知識を活かし、開発タイトルにおけるトラブル対処や相談・調査役、<br>
+法律(特許)事務所の弁護士様、弁理士様とのパイプ役を行いたいです。<br>
 <br>
 
 ## 現在となりたい姿とのギャップ
-まだまだ勉強中で、画面制作など業務範囲は狭い状態なので、日々学習を継続しています。<br>
-設計、テストコードについても意識して学習するようにしています。<br>
-また、技術勉強会に登壇して発表できる良いネタを用意できていません。<br>
-AssetPostProcessorが候補として挙がっています。<br>
+自社IPにおける一定のキャラクターの認知・理解はしておりますが、<br>
+「このキャラクターなら次はこうする」というキャラ感の深い理解、「キャラクター特有の表現の再現」に挑戦しています。<br>
+これらはスピード重視、かつ失敗は次の作品に活かす、を短いサイクルで繰り返すよう取り組んでおります。<br>
+ゲーム開発者としては、画面制作やツールなど業務範囲が狭いため、広げるべく日々学習を継続しています。<br>
+また、設計、テストコードについても意識して学習するようにしています。<br>
 <br>
 
 ## なりたい姿を達成するために、取り組みたいこと
-業務で学んだインプットをまとめ、社内ドキュメントにまとめ、社外アドベントカレンダーで発表したいと考えています。<br>
-<br>
-
-### 執筆暦 (業務)
-無し
+業務で学んだインプットを社内ドキュメントにまとめ、社外アドベントカレンダーで発表したいと考えています。<br>
 <br>
 
 # 個人活動
@@ -242,17 +243,16 @@ AssetPostProcessorが候補として挙がっています。<br>
 |2019.09 ~ 2020.05| FLYPOT.LLC エフェクト講座に参加 | 作品例:魔法陣： https://youtu.be/M7biwGPW6-A |
 <br>
 
+## ブログ
+|名前|URL|
+|:--|:--|
+|はてなブログ|https://tanvk1ch1.hatenablog.com/|
+<br>
+
 ## ゲーム開発
 - [Unity1Week 「そろえる」に参加しました](https://unityroom.com/games/u1w2205_bingo)
   <br>
 
-## その他
-- ポートフォリオ : 準備中
-- 個人経歴書  : 準備中
-  <br>
-
 # ライセンス
-本ドキュメントの目次は **toc-generator** を使用して作成されています。
-toc-generatorのライセンスの詳細は
-* [Third Party Notices.md](Third%20Party%20Notices.md)
-  を参照してください。
+本ドキュメントは **toc-generator** を使用して作成されています。
+- [toc-generator](https://github.com/technote-space/toc-generator/blob/main/README.ja.md)
