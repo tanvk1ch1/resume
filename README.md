@@ -14,11 +14,12 @@
 - [価値観](#%E4%BE%A1%E5%80%A4%E8%A6%B3)
 - [興味・関心](#%E8%88%88%E5%91%B3%E3%83%BB%E9%96%A2%E5%BF%83)
 - [職務経歴](#%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4)
-    - [2023/1 ～現在 : Y社]
-        - [主な職務]
+    - [2023/1 ～現在 : Y社](https://github.com/tanvk1ch1/resume/blob/master/README.md#202301--現在--Y社)
+        - [主な職務](https://github.com/tanvk1ch1/resume/blob/master/README.md#主な職務)
+        - [業務内容](https://github.com/tanvk1ch1/resume/blob/master/README.md#業務内容)
     - [2021/10 ～ 2022/11 : S社](#202204--%E7%8F%BE%E5%9C%A8--a%E7%A4%BE)
-        - [主な職務](#%E4%B8%BB%E3%81%AA%E8%81%B7%E5%8B%99)
-        - [業務内容](#%E6%A5%AD%E5%8B%99%E5%86%85%E5%AE%B9)
+        - [主な職務](https://github.com/tanvk1ch1/resume/blob/master/README.md#主な職務1)
+        - [業務内容](https://github.com/tanvk1ch1/resume/blob/master/README.md#業務内容1)
     - [2019/05 ～ 2021/09: K社](#201404--202203-l%E7%A4%BE)
         - [主な職務](#%E4%B8%BB%E3%81%AA%E8%81%B7%E5%8B%99-1)
     - [2016/05 ～ 2016/07: I特許事務所]
