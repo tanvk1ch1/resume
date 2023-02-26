@@ -55,7 +55,7 @@
 ## 保有スキル
 <details> 
 <summary>ゲームエンジン</summary>
-* Unity
+* Unity <br>
 </details>
 
 <details> 
@@ -79,11 +79,11 @@
 
 <details> 
 <summary>DCCツール</summary>
-* Adobe Photoshop
-* Adobe After Effects
-* Blender 
-* Autodesk Maya
-* SideFX Houdini 
+* Adobe Photoshop <br>
+* Adobe After Effects <br>
+* Blender <br>
+* Autodesk Maya <br>
+* SideFX Houdini <br>
 </details>
 
 <details> 
