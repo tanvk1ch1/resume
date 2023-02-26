@@ -84,6 +84,8 @@
 * Blender <br>
 * Autodesk Maya <br>
 * SideFX Houdini <br>
+* Crescent Shogun Live <br>
+* Crescent Shogun Post <br>
 </details>
 
 <details> 
